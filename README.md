@@ -10,10 +10,6 @@ As a professional, I work as a backend engineer.
 
 As a learner, I study as a full-stack engineer.
 
-To build general software, I tend to study DevOps engineering, backend engineering, and frontend engineering in that order.
-
-To build AI software, I focus on MLOps engineering, data engineering, and artificial intelligence in that order.
-
 ##### BACKEND ENGINEERING
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
