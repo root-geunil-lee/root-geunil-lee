@@ -2,8 +2,8 @@
 
 ## 🍁 Industry Experience
 
-- Mobility
-- Edutech
+- Mobility (2025~2025)
+- Edutech (2014~2023)
 
 ## 🛠️ Tech Stack Experience
 
