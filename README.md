@@ -2,7 +2,7 @@
 
 ### 🍁 Industry Experience
 
-I had founded `edutech startups`, where I worked as `a CEO and full-stack engiener` for 10 years, developing online learing forum, online course platform or so. Currently, I am working at a `mobility startup` as `a backend engineer`, developing services for designated driving, vehicle delivery, and medical accompaniment. I’m looking forward to working at a mobility or e-commerce startup next.
+I had founded **edutech startups**, where I worked as **a CEO and full-stack engiener** for 10 years, developing online learing forum, online course platform or so. Currently, I am working at **a mobility startup** as **a backend engineer**, developing services for designated driving, vehicle delivery, and medical accompaniment. I’m looking forward to working at a mobility or e-commerce startup next.
 
 ### 🛠️ Tech Stack Experience
 
